@@ -1,8 +1,5 @@
  Employee Management System
 
- developed Employee Management System project using the Abstract Windowing 
-Toolkit (AWT) in Java, Designed intuitive interfaces for employee information management and 
-Implemented functionalities such as adding, updating, and deleting employee records. The project 
-highlights competence in Java AWT, database integration.
+: Developed an Employee Management System using Java and Swing to provide an intuitive and user-friendly interface for managing employee information. The project incorporates a variety of features such as adding, updating, and deleting employee records, making it a fully functional management tool. 
 
-Skills: Java,AWT,Swing
+Skills: Java,SQL,Swing
